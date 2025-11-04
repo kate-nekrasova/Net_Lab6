@@ -73,7 +73,8 @@ namespace laba6_tests
         public void ToString_ReturnsCorrectlyFormattedString()
         {
             var student = new Student("Jane Doe", "Lyceum 39", 1990);
-            string expected = "??'?: Jane Doe, ?????: Lyceum 39, г? : 1990 ";
+            string expected = "≤м'€: Jane Doe, Ўкола: Lyceum 39, –≥к : 1990";
+
             Assert.AreEqual(expected, student.ToString());
         }
     }

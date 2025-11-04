@@ -112,3 +112,4 @@ D:\Новая папка\Net Lab\Net_Lab6\laba6_test\obj\Debug\net8.0\refint\lab
 D:\Новая папка\Net Lab\Net_Lab6\laba6_test\obj\Debug\net8.0\laba6_test.pdb
 D:\Новая папка\Net Lab\Net_Lab6\laba6_test\obj\Debug\net8.0\laba6_test.genruntimeconfig.cache
 D:\Новая папка\Net Lab\Net_Lab6\laba6_test\obj\Debug\net8.0\ref\laba6_test.dll
+D:\Новая папка\Net Lab\Net_Lab6\laba6_test\obj\Debug\net8.0\laba6_test.sourcelink.json
