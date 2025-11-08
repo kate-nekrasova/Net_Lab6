@@ -10,8 +10,8 @@ namespace laba6_tests
         [TestMethod]
         public void Constructor_WithValidArguments_CreateStudentObject()
         {
-            string name = "Kateryna Nekrasova";
-            string school = "School #3";
+            string name = "Olha Maison";
+            string school = "School #9";
             int year = 2006;
 
             var student = new Student(name, school, year);

@@ -23,10 +23,7 @@ namespace laba6_tests
             var student1 = new Student("Alice", "School 1", 2000);
             var student2 = new Student("Bob", "School 2", 2010);
 
-            // student1 < student2
             Assert.IsTrue(comparer.Compare(student1, student2) < 0);
-
-            // student2 > student1
             Assert.IsTrue(comparer.Compare(student2, student1) > 0);
         }
 
